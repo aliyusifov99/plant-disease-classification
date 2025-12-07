@@ -1,0 +1,10 @@
+Model,Accuracy (%),Source
+"VGG16 (Mohanty et al., 2016)",90.4,Using Deep Learning for Image-Based Plant Disease Detection
+"ResNet34 (Mohanty et al., 2016)",91.2,Using Deep Learning for Image-Based Plant Disease Detection
+"AlexNet (Mohanty et al., 2016)",85.53,Using Deep Learning for Image-Based Plant Disease Detection
+"GoogLeNet (Mohanty et al., 2016)",97.28,Using Deep Learning for Image-Based Plant Disease Detection
+"DenseNet121 (Too et al., 2019)",99.75,A Comparative Study of Deep Learning Methods for Plant Disease Detection
+"InceptionV3 (Too et al., 2019)",99.5,A Comparative Study of Deep Learning Methods for Plant Disease Detection
+"VGG19 (Too et al., 2019)",99.24,A Comparative Study of Deep Learning Methods for Plant Disease Detection
+"ResNet50 (Too et al., 2019)",99.35,A Comparative Study of Deep Learning Methods for Plant Disease Detection
+Our EfficientNet-B0,98.40432060881305,This Project
