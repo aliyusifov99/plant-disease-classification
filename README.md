@@ -321,7 +321,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👥 Authors
 
-- Ali Yusifov - Initial work
+- Ali Yusifov
+- Ceren Yolcu
+- Eldar Novruzov
 
 ## 🙏 Acknowledgments
 
